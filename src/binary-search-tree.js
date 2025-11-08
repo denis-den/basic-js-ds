@@ -7,6 +7,7 @@ const { NotImplementedError } = require('../lib/errors');
 */
 class BinarySearchTree {
   root() {
+    // 
     // Remove line below and write your code here
     throw new NotImplementedError('Not implemented');
   }
